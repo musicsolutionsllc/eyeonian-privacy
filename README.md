@@ -1,99 +1,68 @@
-<p>Last updated: June 30, 2026</p>
+# EyeOnian Privacy Policy
 
-This privacy policy applies to the EyeOnian app for mobile devices and web browsers, together with any related services operated by Music Solutions LLC (collectively, the "Application"). Music Solutions LLC is hereby referred to as the "Service Provider".
+Last updated: June 30, 2026
 
-**Information Collection and Use**
+This Privacy Policy describes how Music Solutions LLC ("Music Solutions," "we," "us") handles information in connection with EyeOnian (the "app"), across its native applications (Android, iOS, iPadOS, and macOS) and its web version, together with the related website and services (collectively, the "Service").
 
-The Application collects information when you download and use it. This information may include information such as:
+The short version: the native EyeOnian apps collect no personal data and work fully offline. The web version collects only what is needed to process your purchase and run the app. We do not use advertising trackers, and we never receive your payment card details.
 
-*   Your device's Internet Protocol address
-*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-*   The time spent on the Application
-*   your operating system you use
+## Native apps (Android, iOS, iPadOS, macOS)
 
-**Cookies and tracking technologies**
+The native EyeOnian apps **do not collect any personal data.** They run entirely on your device, work fully offline, and make no calls to our servers. There are no accounts, no analytics, no advertising identifiers, and no tracking of any kind.
 
-The Application or its third-party SDKs may use cookies, SDKs, pixels, and similar technologies to support functionality, analytics, or service delivery. Where required by applicable law, the Service Provider will obtain consent before using non-essential tracking technologies.
+Purchases in the native apps are handled by the app store you downloaded from — the Apple App Store or Google Play. When you unlock paid access, we receive only an anonymous confirmation that the purchase is valid. We do not receive your name, email address, or payment details from the stores. Your payment information is handled entirely by Apple or Google under their own privacy policies.
 
-**Your Rights**
+## Web version
 
-You may request access to, correction of, or deletion of your personal data held by the Service Provider. To exercise these rights, or to withdraw consent where processing is based on consent, contact the Service Provider at info@eyeonian.com.
+The web version of EyeOnian collects only the limited information described below.
 
-**Your California privacy rights (CCPA/CPRA)**
+**Purchases and access.** We use RevenueCat to manage purchases and unlock paid features. RevenueCat records your purchase history using an anonymous identifier; it does not receive your name or email unless you provide it. RevenueCat stores this data on servers located in the United States (Amazon Web Services).
 
-If you are a California resident, you have the right to know what personal information is collected, the right to delete personal information, the right to opt out of the sale or sharing of personal information, and the right to non-discrimination for exercising these rights. To exercise your CCPA/CPRA rights, contact the Service Provider at info@eyeonian.com.
+**Payment.** Payments on the web are processed by Stripe. To complete a purchase, Stripe collects your email address and payment details. We never receive or store your payment card information — it is handled entirely by Stripe under its own privacy policy. We may receive your email address from Stripe to associate with your purchase and to send purchase-related notices.
 
-The Service Provider may use the information you provide to send important information, required notices, and, where permitted by law, marketing communications.
+**App functionality.** To run the interactive parts of EyeOnian on the web, the queries and configurations you create in the app are processed on our servers (hosted by Cloudflare) rather than only on your device, so that results can be returned to you within the app. We do not use this information to build a profile of you or for advertising.
 
-For a better experience while using the Application, the Service Provider may require you to provide certain personally identifiable information, including but not limited to Email, userId. The information the Service Provider requests will be retained and used as described in this privacy policy.
+We do not sell or share your personal information, and we do not use advertising trackers.
 
-**Third Party Access**
+## Cookies and similar technologies
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+The native apps do not use cookies or tracking technologies of any kind.
 
-**International Data Transfers**
+The web version may use cookies or similar technologies only where needed to keep you signed in, remember your purchase, and operate the app. Where required by law, we will ask for your consent before using any non-essential cookies or similar technologies.
 
-The Service Provider or its third-party service providers may transfer personal data to countries outside your country of residence, including outside the European Economic Area (EEA). Where applicable law requires safeguards for international transfers, the Service Provider will use appropriate mechanisms.
+## Payments
 
-*   Standard Contractual Clauses (SCCs) approved by the European Commission
-*   Adequacy decisions or other legally recognized transfer mechanisms
-*   Your consent, where required and legally permitted
+We never receive or store your payment card details. On the native apps, payments are handled by Apple or Google. On the web, payments are handled by Stripe. Each processes your payment under its own privacy policy.
 
-Data protection laws in other countries may differ from those in your jurisdiction. Where required by law, the Service Provider will apply appropriate safeguards and obtain any consent required for the transfer.
+## Your rights
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+Depending on where you live, you may have the right to access, correct, or delete the personal information we hold about you, and to withdraw consent where processing is based on consent. Because the native apps collect nothing, these rights are most relevant to the web version. To make a request, contact us at info@eyeonian.com.
 
-*   as required by law, such as to comply with a subpoena, or similar legal process;
-*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-*   with their trusted services providers who work on their behalf, do not have an independent use of the information the Service Provider discloses to them, and have agreed to adhere to the rules set forth in this privacy statement.
+**California residents (CCPA/CPRA).** If you are a California resident, you have the right to know what personal information we collect, to delete it, to opt out of its sale or sharing, and to non-discrimination for exercising these rights. We do not sell or share personal information. To exercise your rights, contact us at info@eyeonian.com.
 
-**Opt-Out Rights**
+## International data transfers
 
-You can stop further collection of information from your mobile device or computer by uninstalling the Application. Uninstalling will stop the Application from collecting data from your device, but it does not automatically delete information that has already been transmitted to the Service Provider or to third parties.
+Our web service providers (including RevenueCat, Stripe, and Cloudflare) may process data in the United States or other countries, which may have different data protection laws than your own. Where required, we rely on appropriate safeguards such as Standard Contractual Clauses or other legally recognized transfer mechanisms.
 
-To request deletion of your personal data, to withdraw consent, or to exercise any of your rights, contact the Service Provider at info@eyeonian.com.
+## Data retention
 
-**Data Retention Policy**
+Because the native apps collect no data, there is nothing to retain from them.
 
-The Service Provider retains personal data based on its necessity for the stated purposes:
+For the web version, we retain purchase-related information (an anonymous purchase record and, where provided, your email) for as long as needed to provide access to what you bought and to meet legal, tax, and accounting obligations, after which it is deleted or anonymized. You may request deletion of your data by contacting us at info@eyeonian.com, subject to any legal obligation to retain it.
 
-*   User Provided Data: Retained for the duration of your use of the Application plus 12 months thereafter, unless longer retention is required by law
-*   Automatically Collected Data: Retained for up to 24 months from collection, unless longer retention is required for legal compliance
-*   Aggregated and Anonymized Data: Retained indefinitely as it no longer identifies you
-*   Data required for legal compliance: Retained as long as required by applicable law
+## Children
 
-You may request deletion of your personal data, subject to any legal obligation to retain it. If you want the Service Provider to delete User Provided Data submitted through the Application, please contact them at info@eyeonian.com. Please note that some User Provided Data may be required for the Application to function properly.
+EyeOnian is not directed to children under 13 (or the minimum age required in your jurisdiction). We do not knowingly collect personal information from children. The native apps collect no personal information from anyone. If you believe a child has provided us personal information through the web version, contact us at info@eyeonian.com and we will take appropriate action.
 
-**Children**
+## Security
 
-The Application is not intended for children under 13 years of age, or such higher age as required by applicable law. The Service Provider does not knowingly solicit data from children or market the Application to them.
+We use reasonable physical, electronic, and procedural safeguards to protect the limited information the web version handles. If a data breach affects your personal data, we will notify you as required by applicable law.
 
-The Service Provider does not knowingly collect personally identifiable information from children. The Service Provider encourages all children to never submit any personally identifiable information through the Application and/or Services. The Service Provider encourages parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to the Service Provider through the Application and/or Services, please contact the Service Provider <span>(info@eyeonian.com)</span> so that they will be able to take the necessary actions. If you are under 13 years of age, your parent or guardian must provide consent on your behalf where permitted by law.
+## Changes to this policy
 
-**Security**
+We may update this Privacy Policy from time to time. We will post any updated version here with a new "Last updated" date, and where required by law we will seek your consent to material changes before they take effect.
 
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+## Contact
 
-**Data Breach Notification**
-
-If a data breach occurs that affects your personal data, the Service Provider will notify you in accordance with applicable legal requirements, including, where required, providing information about the nature of the breach and the steps being taken to address it.
-
-**Changes**
-
-The Service Provider may update this Privacy Policy from time to time. The Service Provider will notify you of material changes by posting the updated Privacy Policy with an effective date. Where required by law, the Service Provider will seek your consent to material changes before they take effect.
-
-Previous versions of this Privacy Policy will be maintained and made available upon request by contacting the Service Provider at info@eyeonian.com.
-
-This privacy policy is effective as of 2026-06-27
-
-**Your Consent**
-
-Where processing is based on consent, you provide that consent by affirmatively opting in to the relevant feature or action. You may withdraw consent at any time without affecting processing carried out before withdrawal. Processing based on other lawful bases is carried out as described above.
-
-**Contact Us**
-
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at info@eyeonian.com.
-
-* * *
-
-This privacy policy page was generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+Music Solutions LLC
+Questions about this policy or your privacy: info@eyeonian.com

@@ -64,7 +64,7 @@ We use reasonable physical, electronic, and procedural safeguards to protect the
 
 We may update this Privacy Policy from time to time. We will post any updated version here with a new "Last updated" date, and where required by law we will seek your consent to material changes before they take effect.
 
-***Do Not Track***. We do not track EyeOnian users across third-party websites or services, and we do not use advertising trackers. Because we do not perform such tracking, our Service does not respond differently to browser 'Do Not Track' (DNT) signals.
+We do not track EyeOnian users across third-party websites or services, and we do not use advertising trackers. Because we do not perform such tracking, our Service does not respond differently to browser 'Do Not Track' (DNT) signals.
 
 ## Contact
 

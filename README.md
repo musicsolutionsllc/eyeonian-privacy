@@ -54,7 +54,7 @@ For the web version, we retain purchase-related information (an anonymous purcha
 
 ## Children
 
-EyeOnian is not directed to children under 13 (or the minimum age required in your jurisdiction). We do not knowingly collect personal information from children. The native apps collect no personal information from anyone. If you believe a child has provided us personal information through the web version, contact us at info@eyeonian.com and we will take appropriate action.
+EyeOnian is not directed to children under 13, and we do not knowingly collect personal information from children under 13. The native apps collect no personal information from anyone. If you believe a child has provided us personal information through the web version, please contact us at info@eyeonian.com and we will delete it.
 
 ## Security
 
@@ -63,6 +63,8 @@ We use reasonable physical, electronic, and procedural safeguards to protect the
 ## Changes to this policy
 
 We may update this Privacy Policy from time to time. We will post any updated version here with a new "Last updated" date, and where required by law we will seek your consent to material changes before they take effect.
+
+***Do Not Track***. We do not track EyeOnian users across third-party websites or services, and we do not use advertising trackers. Because we do not perform such tracking, our Service does not respond differently to browser 'Do Not Track' (DNT) signals.
 
 ## Contact
 

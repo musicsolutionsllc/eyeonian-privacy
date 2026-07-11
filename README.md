@@ -1,8 +1,8 @@
 Last updated: July 08, 2026
 
-This Privacy Policy describes how Music Solutions LLC ("Music Solutions," "we," "us") handles information in connection with EyeOnian (the "app"), across its native applications (Android, iOS, iPadOS, and macOS) and its web version, together with the related website and services (collectively, the "Service").
+This Privacy Policy describes how Music Solutions LLC ("Music Solutions," "we," "us") handles information in connection with EyeOnian™ (the "app"), across its native applications (Android, iOS, iPadOS, and macOS) and its web version, together with the related website and services (collectively, the "Service").
 
-The native EyeOnian apps collect no personal data and work fully offline.
+The native EyeOnian™ apps collect no personal data and work fully offline.
 
 The web version collects only what is needed to process your purchase and run the app.
 
@@ -10,19 +10,19 @@ We do not use advertising trackers, and we never receive your payment card detai
 
 ## Native apps (Android, iOS, iPadOS, macOS)
 
-The native EyeOnian apps **do not collect any personal data.** They run entirely on your device, work fully offline, and make no calls to our servers. There are no accounts, no analytics, no advertising identifiers, and no tracking of any kind.
+The native EyeOnian™ apps **do not collect any personal data.** They run entirely on your device, work fully offline, and make no calls to our servers. There are no accounts, no analytics, no advertising identifiers, and no tracking of any kind.
 
 Purchases in the native apps are handled by the app store you downloaded from — the Apple App Store or Google Play. When you unlock paid access, we receive only an anonymous confirmation that the purchase is valid. We do not receive your name, email address, or payment details from the stores. Your payment information is handled entirely by Apple or Google under their own privacy policies.
 
 ## Web version
 
-The web version of EyeOnian collects only the limited information described below.
+The web version of EyeOnian™ collects only the limited information described below.
 
 ***Purchases and access.*** We use RevenueCat to manage purchases and unlock paid features. RevenueCat records your purchase history using an anonymous identifier; it does not receive your name or email unless you provide it. RevenueCat stores this data on servers located in the United States (Amazon Web Services).
 
 ***Payment.*** Payments on the web are processed by Stripe. To complete a purchase, Stripe collects your email address and payment details. We never receive or store your payment card information — it is handled entirely by Stripe under its own privacy policy. We may receive your email address from Stripe to associate with your purchase and to send purchase-related notices.
 
-***App functionality.*** To run the interactive parts of EyeOnian on the web, the queries and configurations you create in the app are processed on our servers (hosted by Cloudflare) rather than only on your device, so that results can be returned to you within the app. We do not use this information to build a profile of you or for advertising.
+***App functionality.*** To run the interactive parts of EyeOnian™ on the web, the queries and configurations you create in the app are processed on our servers (hosted by Cloudflare) rather than only on your device, so that results can be returned to you within the app. We do not use this information to build a profile of you or for advertising.
 
 We do not sell or share your personal information, and we do not use advertising trackers.
 
@@ -38,9 +38,9 @@ We never receive or store your payment card details. On the native apps, payment
 
 ## Your rights
 
-Depending on where you live, you may have the right to access, correct, or delete the personal information we hold about you, and to withdraw consent where processing is based on consent. Because the native apps collect nothing, these rights are most relevant to the web version. To make a request, contact us at info@eyeonian.com.
+Depending on where you live, you may have the right to access, correct, or delete the personal information we hold about you, and to withdraw consent where processing is based on consent. Because the native apps collect nothing, these rights are most relevant to the web version. To make a request, contact us at info@EyeOnian™.com.
 
-***California residents (CCPA/CPRA).*** If you are a California resident, you have the right to know what personal information we collect, to delete it, to opt out of its sale or sharing, and to non-discrimination for exercising these rights. We do not sell or share personal information. To exercise your rights, contact us at info@eyeonian.com.
+***California residents (CCPA/CPRA).*** If you are a California resident, you have the right to know what personal information we collect, to delete it, to opt out of its sale or sharing, and to non-discrimination for exercising these rights. We do not sell or share personal information. To exercise your rights, contact us at info@EyeOnian™.com.
 
 ## International data transfers
 
@@ -50,11 +50,11 @@ Our web service providers (including RevenueCat, Stripe, and Cloudflare) may pro
 
 Because the native apps collect no data, there is nothing to retain from them.
 
-For the web version, we retain purchase-related information (an anonymous purchase record and, where provided, your email) for as long as needed to provide access to what you bought and to meet legal, tax, and accounting obligations, after which it is deleted or anonymized. You may request deletion of your data by contacting us at info@eyeonian.com, subject to any legal obligation to retain it.
+For the web version, we retain purchase-related information (an anonymous purchase record and, where provided, your email) for as long as needed to provide access to what you bought and to meet legal, tax, and accounting obligations, after which it is deleted or anonymized. You may request deletion of your data by contacting us at info@EyeOnian™.com, subject to any legal obligation to retain it.
 
 ## Children
 
-EyeOnian is not directed to children under 13, and we do not knowingly collect personal information from children under 13. The native apps collect no personal information from anyone. If you believe a child has provided us personal information through the web version, please contact us at info@eyeonian.com and we will delete it.
+EyeOnian™ is not directed to children under 13, and we do not knowingly collect personal information from children under 13. The native apps collect no personal information from anyone. If you believe a child has provided us personal information through the web version, please contact us at info@EyeOnian™.com and we will delete it.
 
 ## Security
 
@@ -64,7 +64,7 @@ We use reasonable physical, electronic, and procedural safeguards to protect the
 
 We may update this Privacy Policy from time to time. We will post any updated version here with a new "Last updated" date, and where required by law we will seek your consent to material changes before they take effect.
 
-We do not track EyeOnian users across third-party websites or services, and we do not use advertising trackers. Because we do not perform such tracking, our Service does not respond differently to browser 'Do Not Track' (DNT) signals.
+We do not track EyeOnian™ users across third-party websites or services, and we do not use advertising trackers. Because we do not perform such tracking, our Service does not respond differently to browser 'Do Not Track' (DNT) signals.
 
 ## Contact
 

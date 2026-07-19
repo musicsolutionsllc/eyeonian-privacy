@@ -42,9 +42,9 @@ We never receive or store your payment card details. On the native apps, payment
 
 ## Your rights
 
-Depending on where you live, you may have the right to access, correct, or delete the personal information we hold about you, and to withdraw consent where processing is based on consent. Because the native apps collect nothing, these rights are most relevant to the web version. To make a request, contact us at info@EyeOnian™.com.
+Depending on where you live, you may have the right to access, correct, or delete the personal information we hold about you, and to withdraw consent where processing is based on consent. Because the native apps collect nothing, these rights are most relevant to the web version. To make a request, contact us at info@eyeonian.com.
 
-***California residents (CCPA/CPRA).*** If you are a California resident, you have the right to know what personal information we collect, to delete it, to opt out of its sale or sharing, and to non-discrimination for exercising these rights. We do not sell or share personal information. To exercise your rights, contact us at info@EyeOnian™.com.
+***California residents (CCPA/CPRA).*** If you are a California resident, you have the right to know what personal information we collect, to delete it, to opt out of its sale or sharing, and to non-discrimination for exercising these rights. We do not sell or share personal information. To exercise your rights, contact us at info@eyeonian.com.
 
 ## International data transfers
 
@@ -54,11 +54,11 @@ Our web service providers (including RevenueCat, Stripe, and Cloudflare) may pro
 
 Because the native apps collect no data, there is nothing to retain from them.
 
-For the web version, we retain purchase-related information (an anonymous purchase record and, where provided, your email) for as long as needed to provide access to what you bought and to meet legal, tax, and accounting obligations, after which it is deleted or anonymized. You may request deletion of your data by contacting us at info@EyeOnian™.com, subject to any legal obligation to retain it.
+For the web version, we retain purchase-related information (an anonymous purchase record and, where provided, your email) for as long as needed to provide access to what you bought and to meet legal, tax, and accounting obligations, after which it is deleted or anonymized. You may request deletion of your data by contacting us at info@eyeonian.com, subject to any legal obligation to retain it.
 
 ## Children
 
-EyeOnian™ is not directed to children under 13, and we do not knowingly collect personal information from children under 13. The native apps collect no personal information from anyone. If you believe a child has provided us personal information through the web version, please contact us at info@EyeOnian™.com and we will delete it.
+EyeOnian™ is not directed to children under 13, and we do not knowingly collect personal information from children under 13. The native apps collect no personal information from anyone. If you believe a child has provided us personal information through the web version, please contact us at info@eyeonian.com and we will delete it.
 
 ## Security
 

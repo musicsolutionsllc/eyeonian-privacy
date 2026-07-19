@@ -10,9 +10,11 @@ We do not use advertising trackers, and we never receive your payment card detai
 
 ## Native apps (Android, iOS, iPadOS, macOS)
 
-The native EyeOnian™ apps **do not collect any personal data.** They run entirely on your device, work fully offline, and make no calls to our servers. There are no accounts, no analytics, no advertising identifiers, and no tracking of any kind.
+The native EyeOnian™ apps **do not collect any personal data** and make no calls to our servers. There are no accounts, no analytics, no advertising identifiers, and no tracking of any kind. The apps work fully offline.
 
-Purchases in the native apps are handled by the app store you downloaded from — the Apple App Store or Google Play. When you unlock paid access, we receive only an anonymous confirmation that the purchase is valid. We do not receive your name, email address, or payment details from the stores. Your payment information is handled entirely by Apple or Google under their own privacy policies.
+Your saved EyeOnotes may sync through your own device cloud — iCloud on Apple devices, or Android's backup to your Google Drive — so they're available across your devices. This uses your personal cloud storage under Apple's or Google's privacy policies. We have no access to it and cannot read your notes, and you can turn it off in your device settings.
+
+Purchases in the native apps are handled by the app store you downloaded from — the Apple App Store or Google Play. Your purchase is validated on your device by the store; the apps send nothing to us. We do not receive your name, email address, or payment details. Apple and Google provide us only anonymous, aggregated sales information through their developer dashboards. Your payment information is handled entirely by Apple or Google under their own privacy policies.
 
 ## Web version
 

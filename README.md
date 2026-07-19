@@ -1,4 +1,4 @@
-Last updated: July 10, 2026
+Last updated: July 19, 2026
 
 This Privacy Policy describes how Music Solutions LLC ("Music Solutions," "we," "us") handles information in connection with EyeOnian™ (the "app"), across its native applications (Android, iOS, iPadOS, and macOS) and its web version, together with the related website and services (collectively, the "Service").
 
@@ -32,6 +32,8 @@ The native apps do not use cookies or tracking technologies of any kind.
 
 The web version may use cookies or similar technologies only where needed to keep you signed in, remember your purchase, and operate the app. Where required by law, we will ask for your consent before using any non-essential cookies or similar technologies.
 
+We do not track EyeOnian™ users across third-party websites or services, and we do not use advertising trackers. Because we do not perform such tracking, our Service does not respond differently to browser 'Do Not Track' (DNT) signals.
+
 ## Payments
 
 We never receive or store your payment card details. On the native apps, payments are handled by Apple or Google. On the web, payments are handled by Stripe. Each processes your payment under its own privacy policy.
@@ -63,8 +65,6 @@ We use reasonable physical, electronic, and procedural safeguards to protect the
 ## Changes to this policy
 
 We may update this Privacy Policy from time to time. We will post any updated version here with a new "Last updated" date, and where required by law we will seek your consent to material changes before they take effect.
-
-We do not track EyeOnian™ users across third-party websites or services, and we do not use advertising trackers. Because we do not perform such tracking, our Service does not respond differently to browser 'Do Not Track' (DNT) signals.
 
 ## Contact
 

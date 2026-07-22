@@ -1,4 +1,4 @@
-Last updated: July 19, 2026
+Last updated: July 22, 2026
 
 This Privacy Policy describes how Music Solutions LLC ("Music Solutions," "we," "us") handles information in connection with EyeOnian™ (the "app"), across its native applications (Android, iOS, iPadOS, and macOS) and its web version, together with the related website and services (collectively, the "Service").
 
@@ -20,7 +20,7 @@ Purchases in the native apps are handled by the app store you downloaded from �
 
 The web version of EyeOnian™ collects only the limited information described below.
 
-***Accounts, Purchases and Access.*** The web version uses Supabase (hosted on Amazon Web Services in the United States) to manage your account and store your access status. We use RevenueCat to manage purchases and unlock paid features. RevenueCat records your purchase history using an anonymous identifier; it does not receive your name or email unless you provide it. RevenueCat stores this data on servers located in the United States (Amazon Web Services).
+***Accounts, Purchases and Access.*** The web version uses Supabase (hosted on Amazon Web Services in the United States) to manage your account—including your email address—and store your access status. We use RevenueCat to manage purchases and unlock paid features. RevenueCat links your purchase history to your Supabase account identifier. Because this is a web application, RevenueCat also receives transaction metadata and your billing email address directly from our web payment processor. RevenueCat stores this data on servers located in the United States (Amazon Web Services). For more details, you can review [RevenueCat's Privacy Policy](https://revenuecat.com).
 
 ***Payment.*** Payments on the web are processed by Stripe. To complete a purchase, Stripe collects your email address and payment details. We never receive or store your payment card information — it is handled entirely by Stripe under its own privacy policy. We may receive your email address from Stripe to associate with your purchase and to send purchase-related notices.
 

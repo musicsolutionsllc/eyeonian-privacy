@@ -20,11 +20,13 @@ Purchases in the native apps are handled by the app store you downloaded from �
 
 The web version of EyeOnian™ collects only the limited information described below.
 
-***Purchases and access.*** We use RevenueCat to manage purchases and unlock paid features. RevenueCat records your purchase history using an anonymous identifier; it does not receive your name or email unless you provide it. RevenueCat stores this data on servers located in the United States (Amazon Web Services).
+***Accounts, Purchases and Access.*** The web version uses Supabase (hosted on Amazon Web Services in the United States) to manage your account and store your access status. We use RevenueCat to manage purchases and unlock paid features. RevenueCat records your purchase history using an anonymous identifier; it does not receive your name or email unless you provide it. RevenueCat stores this data on servers located in the United States (Amazon Web Services).
 
 ***Payment.*** Payments on the web are processed by Stripe. To complete a purchase, Stripe collects your email address and payment details. We never receive or store your payment card information — it is handled entirely by Stripe under its own privacy policy. We may receive your email address from Stripe to associate with your purchase and to send purchase-related notices.
 
 ***App functionality.*** To run the interactive parts of EyeOnian™ on the web, the queries and configurations you create in the app are processed on our servers (hosted by Cloudflare) rather than only on your device, so that results can be returned to you within the app. We do not use this information to build a profile of you or for advertising.
+
+***Approximate location***. During checkout, Stripe and our servers (via Cloudflare) process your IP address to determine your approximate location. We use this only to confirm your purchase is from a permitted region and to help detect and prevent fraudulent transactions. We do not track your location while you use the app.
 
 We do not sell or share your personal information, and we do not use advertising trackers.
 

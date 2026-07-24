@@ -20,9 +20,9 @@ Purchases in the native apps are handled by the app store you downloaded from �
 
 The web version of EyeOnian™ collects only the limited information described below.
 
-***Accounts, Purchases and Access.*** The web version uses Supabase (hosted on Amazon Web Services in the United States) to manage your account—including your email address—store your access status, and keep a record of your agreement to our Terms (the version you accepted and the date). You can create an account with an email address or by signing in with Google; if you use Google sign-in, Google shares your basic profile information (such as your email address) with us to create your account, subject to [Google's Privacy Policy](https://www.revenuecat.com/privacy](https://policies.google.com/privacy).
+***Accounts, Purchases and Access.*** The web version uses Supabase (hosted on Amazon Web Services in the United States) to manage your account—including your email address—store your access status, and keep a record of your agreement to our Terms (the version you accepted and the date). You can create an account with an email address or by signing in with Google; if you use Google sign-in, Google shares your basic profile information (such as your email address) with us to create your account, subject to [Google's Privacy Policy](https://policies.google.com/privacy).
 
-https://policies.google.com/privacy
+
 
 We use RevenueCat to manage purchases and unlock paid features. RevenueCat links your purchase history to your Supabase account identifier. Because this is a web application, RevenueCat also receives transaction metadata and your billing email address directly from our web payment processor. RevenueCat stores this data on servers located in the United States (Amazon Web Services). For more details, you can review [RevenueCat's Privacy Policy](https://www.revenuecat.com/privacy).
 

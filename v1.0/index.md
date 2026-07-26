@@ -7,10 +7,10 @@ title: EyeOnian™ Privacy Policy v1.0
 the [current version](https://musicsolutionsllc.github.io/eyeonian-privacy/) or the [version archive](../archive/).*
 <!-- pinned-header:end -->
 
-Last updated: July 23, 2026  
+Last updated: July 26, 2026  
 Version 1.0
 
-This Privacy Policy describes how Music Solutions LLC ("Music Solutions," "we," "us") handles information in connection with EyeOnian™ (the "app"), across its native applications (Android, iOS, iPadOS, and macOS) and its web version, together with the related website and services (collectively, the "Service").
+This Privacy Policy describes how Music Solutions LLC ("Music Solutions," "we," "us") handles information in connection with EyeOnian™ (the "app"), across its native applications and its web version, together with the related website and services (collectively, the "Service").
 
 The native EyeOnian™ apps collect no personal data and work fully offline.
 
@@ -18,13 +18,13 @@ The web version collects only what is needed to process your purchase and run th
 
 We do not use advertising trackers, and we never receive your payment card details.
 
-## Native apps (Android, iOS, iPadOS, macOS)
+## Native apps
 
 The native EyeOnian™ apps **do not collect any personal data** and make no calls to our servers. There are no accounts, no analytics, no advertising identifiers, and no tracking of any kind. The apps work fully offline.
 
-Your saved EyeOnotes may sync through your own device cloud — iCloud on Apple devices, or Android's backup to your Google Drive — so they're available across your devices. This uses your personal cloud storage under Apple's or Google's privacy policies. We have no access to it and cannot read your notes, and you can turn it off in your device settings.
+Your saved EyeOnotes may sync through your own device cloud — iCloud on Apple devices, or your device's own cloud backup elsewhere — so they're available across your devices. This uses your personal cloud storage under Apple's or Google's privacy policies. We have no access to it and cannot read your notes, and you can turn it off in your device settings.
 
-Purchases in the native apps are handled by the app store you downloaded from — the Apple App Store or Google Play. Your purchase is validated on your device by the store; the apps send nothing to us. We do not receive your name, email address, or payment details. Apple and Google provide us only anonymous, aggregated sales information through their developer dashboards. Your payment information is handled entirely by Apple or Google under their own privacy policies.
+Purchases in the native apps are handled entirely by the app store you downloaded the app from. Your purchase is validated on your device by the store; the apps send nothing to us. We do not receive your name, email address, or payment details. Apple and Google provide us only anonymous, aggregated sales information through their developer dashboards. Your payment information is handled entirely by Apple or Google under their own privacy policies.
 
 ## Web version
 

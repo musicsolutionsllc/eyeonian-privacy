@@ -1,7 +1,7 @@
 ---
 ---
 
-Last updated: July 26, 2026  
+Last updated: July 30, 2026  
 Version 1.0
 
 This Privacy Policy describes how Music Solutions LLC ("Music Solutions," "we," "us") handles information in connection with EyeOnian™ (the "app"), across its native applications and its web version, together with the related website and services (collectively, the "Service").

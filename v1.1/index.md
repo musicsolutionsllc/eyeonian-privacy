@@ -20,8 +20,6 @@ We do not use advertising trackers, and we never receive your payment card detai
 
 ## Native apps
 
-### What is true of every native app
-
 The native EyeOnian™ apps have no accounts, no registration and no login. They contain no third-party analytics or crash-reporting SDKs, no advertising, no advertising identifiers, and no advertising or attribution SDKs. The apps make no calls to Music Solutions servers. We never receive your name, email address, or payment details.
 
 Purchases are handled by the app store you downloaded the app from. Payment is processed entirely by Apple or Google under their own privacy policies, and no card, bank or other payment instrument details reach us or any service acting on our behalf.
@@ -32,7 +30,7 @@ Apple and Google give us sales reporting through their developer dashboards. Mos
 
 Your saved EyeOnotes sync to your own private iCloud storage so they are available across your devices. This uses your personal iCloud under Apple's privacy policy; we have no access to it and cannot read your notes. If you are not signed into iCloud, your notes are stored only on your device and simply do not sync. You can turn syncing off in your device's iCloud settings for EyeOnian.
 
-Your purchase is validated on your device by the App Store, using records the App Store maintains with Apple. Nothing about your purchase is sent to us or to any third party. Apart from iCloud sync and the App Store's own communication with Apple, the Apple apps do not connect to anything.
+Your purchase is validated on your device by the App Store, using records Apple maintains for your Apple Account. Nothing about your purchase is sent to us or to any service acting on our behalf. The Apple apps do not connect to Music Solutions servers or to any service we have engaged.
 
 <!-- not-apple:start -->
 ### On Android

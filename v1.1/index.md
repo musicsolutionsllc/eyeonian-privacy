@@ -42,19 +42,21 @@ We use RevenueCat to validate your purchase and to remember that you own it. Rev
 When the app opens, it sends RevenueCat:
 
 - an anonymous identifier the app generates for your installation, which is not derived from any device or advertising identifier and is not linked to any account
-- basic technical information — your app version, operating system version, language setting, and store region
+- basic technical information — the versions of the app and of the software it uses to reach RevenueCat, your operating system version, your language setting, and your store region
 
 When you buy or restore a purchase, the app also sends the purchase identifiers issued by Google Play and the product you bought. It sends these automatically if it finds a purchase we have not yet recorded — for example after you reinstall the app — so that your access is restored without you having to do anything.
 
-Your IP address is visible to RevenueCat, as it is to any service your device contacts.
+Your IP address is visible to RevenueCat, as it is to any service your device contacts. RevenueCat uses it to record which country your device is in.
 
 RevenueCat does not receive your name, email address, payment details, or your advertising identifier. The app does not request the advertising identifier and cannot access it.
 
 The Google Play billing library included in the Android app also sends its own diagnostic information to Google. That is Google's own component operating under Google's privacy policy, and it is not something we request, receive, or control.
 
-**Your purchase record.** The record RevenueCat holds for your installation contains no name, email address or payment details — only an anonymous identifier the app generated and the purchase identifiers issued by Google Play. It exists so the app can recognize the purchase you paid for.
+**Our server is notified of purchases.** RevenueCat also notifies our server when a purchase or a refund happens. That notification comes from RevenueCat's own systems, not from your device — your device never contacts our servers, and your IP address is not part of it. It identifies the transaction and the product, and it exists so that web subscriptions can be kept up to date; for a purchase made in the Android app there is nothing for our server to update.
 
-You can ask us to delete it by emailing privacy@eyeonian.com. Because that record is how the app recognizes your purchase, you may need to use Restore Purchases afterward. Records held by Apple or Google about your transaction are theirs and are not ours to delete.
+**Your purchase record.** RevenueCat holds a record for your installation. It includes the information described above, along with your transaction history and the total you have spent. It does not contain your name, email address, or payment details.
+
+That record is what lets the app recognize the purchase you paid for, so we keep it for as long as you own the app. Records held by Apple or Google about your transaction are theirs and are not ours to delete.
 <!-- not-apple:end -->
 
 ## Web version
@@ -98,7 +100,7 @@ Depending on where you live, you may have the right to access, correct, or delet
 On Apple devices the apps collect nothing, so there is nothing for us to look up, correct, or delete.
 
 <!-- not-apple:start -->
-On Android the only record associated with your installation is the purchase record described in the Native apps section, which holds no name, email address or payment details. You can ask us to delete it by emailing privacy@eyeonian.com; that section explains what deletion means for your access.
+On Android the only record associated with your installation is the purchase record described in the Native apps section, which holds no name, email address or payment details and is kept for as long as you own the app.
 
 <!-- not-apple:end -->
 To make a request, contact us at privacy@eyeonian.com.
@@ -114,7 +116,7 @@ Our web service providers (including RevenueCat, Stripe, and Cloudflare) may pro
 We retain nothing from the Apple apps.
 
 <!-- not-apple:start -->
-For the Android app, RevenueCat retains the purchase record associated with your installation for as long as we use the service, so that the app can continue to recognize your purchase. You can request its deletion as described in the Native apps section.
+For the Android app, RevenueCat retains the purchase record associated with your installation for as long as we use the service, so that the app can continue to recognize your purchase.
 
 <!-- not-apple:end -->
 For the web version, we retain purchase-related information (an anonymous purchase record and, where provided, your email) for as long as needed to provide access to what you bought and to meet legal, tax, and accounting obligations, after which it is deleted or anonymized. You may request deletion of your data by contacting us at privacy@eyeonian.com, subject to any legal obligation to retain it.

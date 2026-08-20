@@ -38,9 +38,9 @@ When the app opens, and when you buy or restore a purchase, the app sends Revenu
 - the purchase identifiers issued by Google Play for your transaction
 - the product you bought
 - an anonymous identifier the app generates for your installation, which is not derived from any device or advertising identifier and is not linked to any account
-- basic technical information — device model, operating system version, app version, and language
+- basic technical information — your app version, operating system version, language setting, and store region
 
-Your IP address is visible to RevenueCat, as it is to any service your device contacts.
+Your IP address is visible to RevenueCat, as it is to any service your device contacts. RevenueCat uses it to record which country your device is in. It also records when you last opened the app.
 
 RevenueCat does not receive your name, email address, payment details, or your advertising identifier. The app does not request the advertising identifier and cannot access it.
 

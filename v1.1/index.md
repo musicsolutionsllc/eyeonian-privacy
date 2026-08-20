@@ -1,5 +1,11 @@
 ---
+title: EyeOnian™ Privacy Policy v1.1
 ---
+
+<!-- pinned-header:start -->
+*EyeOnian™ Privacy Policy — version 1.1, effective PUBLICATION-DATE-TBD. This is a pinned copy; see
+the [current version](https://musicsolutionsllc.github.io/eyeonian-privacy/) or the [version archive](../archive/).*
+<!-- pinned-header:end -->
 
 Last updated: PUBLICATION-DATE-TBD  
 Version 1.1

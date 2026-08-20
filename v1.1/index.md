@@ -22,7 +22,7 @@ We do not use advertising trackers, and we never receive your payment card detai
 
 The native EyeOnian™ apps have no accounts, no registration and no login. They contain no third-party analytics or crash-reporting SDKs, no advertising, no advertising identifiers, and no advertising or attribution SDKs. The apps make no calls to Music Solutions servers. We never receive your name, email address, or payment details.
 
-Purchases are handled by the app store you downloaded the app from. Payment is processed entirely by Apple or Google under their own privacy policies, and no card, bank or other payment instrument details reach us or any service acting on our behalf.
+Payment is processed by Apple or Google under their own privacy policies. No card, bank or other payment instrument details reach us or any service acting on our behalf.
 
 Apple and Google give us sales reporting through their developer dashboards. Most of what we see is aggregated and does not identify you. Where a transaction needs to be handled individually — for example a refund — the store's tools show us that order and its identifiers. We do not receive your name, email address or payment details in any case.
 

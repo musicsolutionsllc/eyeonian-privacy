@@ -39,14 +39,14 @@ Your saved EyeOnotes are stored on your device and are not synced by the app. An
 
 We use RevenueCat to validate your purchase and to remember that you own it. RevenueCat processes this information for us under a data processing agreement. Under RevenueCat's own terms it may also analyze information about the use and performance of its service to improve and develop its products, and may disclose such information in aggregated or de-identified form.
 
-When the app opens, and when you buy or restore a purchase, the app sends RevenueCat:
+When the app opens, it sends RevenueCat:
 
-- the purchase identifiers issued by Google Play for your transaction
-- the product you bought
 - an anonymous identifier the app generates for your installation, which is not derived from any device or advertising identifier and is not linked to any account
 - basic technical information — your app version, operating system version, language setting, and store region
 
-Your IP address is visible to RevenueCat, as it is to any service your device contacts. RevenueCat uses it to record which country your device is in. It also records when you last opened the app.
+When you buy or restore a purchase, the app also sends the purchase identifiers issued by Google Play and the product you bought. It sends these automatically if it finds a purchase we have not yet recorded — for example after you reinstall the app — so that your access is restored without you having to do anything.
+
+Your IP address is visible to RevenueCat, as it is to any service your device contacts.
 
 RevenueCat does not receive your name, email address, payment details, or your advertising identifier. The app does not request the advertising identifier and cannot access it.
 

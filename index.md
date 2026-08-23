@@ -38,7 +38,7 @@ Your saved EyeOnotes sync to your own private iCloud storage so they are availab
 
 **What determines whether you own the app.** Your purchase is validated on your device by the App Store, using records Apple maintains for your Apple Account. That is what the app uses to decide what you own, and it works without a network connection.
 
-**What is sent to RevenueCat.** When you buy or restore a purchase, and when the app checks your purchase record, the app sends RevenueCat:
+**What is sent to RevenueCat.** When the app opens, and when you buy or restore a purchase, the app sends RevenueCat:
 
 - the purchase identifiers issued by the App Store for your transaction
 - the product you bought

@@ -3,11 +3,11 @@ title: EyeOnian™ Privacy Policy v1.2
 ---
 
 <!-- pinned-header:start -->
-*EyeOnian™ Privacy Policy — version 1.2, effective PUBLICATION-DATE-TBD. This is a pinned copy; see
+*EyeOnian™ Privacy Policy — version 1.2, effective 2026-08-23. This is a pinned copy; see
 the [current version](https://musicsolutionsllc.github.io/eyeonian-privacy/) or the [version archive](../archive/).*
 <!-- pinned-header:end -->
 
-Last updated: PUBLICATION-DATE-TBD  
+Last updated: August 23, 2026  
 Version 1.2
 
 This Privacy Policy describes how Music Solutions LLC ("Music Solutions," "we," "us") handles information in connection with EyeOnian™ (the "app"), across its native applications and its web version, together with the related website and services (collectively, the "Service").

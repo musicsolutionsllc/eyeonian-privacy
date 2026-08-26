@@ -1,5 +1,11 @@
 ---
+title: EyeOnian™ Privacy Policy v1.3
 ---
+
+<!-- pinned-header:start -->
+*EyeOnian™ Privacy Policy — version 1.3, effective 2026-08-25. This is a pinned copy; see
+the [current version](https://musicsolutionsllc.github.io/eyeonian-privacy/) or the [version archive](../archive/).*
+<!-- pinned-header:end -->
 
 Last updated: August 25, 2026  
 Version 1.3

@@ -2,7 +2,15 @@
 title: EyeOnian™ Privacy Policy
 ---
 
-Every published version of this document. The [current version](https://musicsolutionsllc.github.io/eyeonian-privacy/) is always served at the root of this site.
+<style>
+  /* The theme left-aligns everything in its container. This page is a short
+     intro line and a small table, which read as a stray fragment pinned to the
+     left of a wide page -- centre both. */
+  .archive-intro { text-align: center; }
+  table { margin-left: auto; margin-right: auto; }
+</style>
+
+<p class="archive-intro">Every published version of this document. The <a href="https://musicsolutionsllc.github.io/eyeonian-privacy/">current version</a> is always served at the root of this site.</p>
 
 | Version | Effective | Document |
 |---|---|---|

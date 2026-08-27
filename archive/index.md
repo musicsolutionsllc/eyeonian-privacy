@@ -6,7 +6,7 @@ title: EyeOnian™ Privacy Policy
   /* The theme left-aligns everything in its container. This page is a short
      intro line and a small table, which read as a stray fragment pinned to the
      left of a wide page -- centre both. */
-  .archive-intro { text-align: center; }
+  .archive-title, .archive-intro { text-align: center; }
   /* The theme ships `.markdown-body table { display:block; width:100%; }` --
      a full-width BLOCK, so auto margins have no free space to distribute and
      compute to 0. Centring needs both a higher-specificity selector and a
@@ -19,6 +19,8 @@ title: EyeOnian™ Privacy Policy
     margin-right: auto;
   }
 </style>
+
+<h1 class="archive-title">EyeOnian™ Privacy Policy</h1>
 
 <p class="archive-intro">Every published version of this document. The <a href="https://musicsolutionsllc.github.io/eyeonian-privacy/">current version</a> is always served at the root of this site.</p>
 
